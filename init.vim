@@ -10,8 +10,8 @@ Plug 'https://github.com/preservim/nerdtree.git'
 Plug 'https://github.com/tc50cal/vim-terminal.git'
 Plug 'https://github.com/vim-airline/vim-airline.git'
 Plug 'https://github.com/tpope/vim-surround.git'
-Plug 'https://github.com/projekt0n/caret.nvim.git'
+Plug 'https://github.com/morhetz/gruvbox.git'
 
 call plug#end()
 
-:colorscheme caret
+:colorscheme gruvbox
